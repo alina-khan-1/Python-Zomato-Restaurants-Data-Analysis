@@ -33,6 +33,6 @@ This project was created to:
 - Build my data storytelling and visualization skills
 - Present analytical thinking for business use cases in the food delivery sector
 
-📚 Dataset Source
-The dataset was obtained from Kaggle
+Dataset Source
+- The dataset was obtained from Kaggle
 - <a href = "https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data/data">(Zomato Restaurants Data)</a>
