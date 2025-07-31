@@ -27,12 +27,12 @@ This project is a comprehensive exploratory data analysis (EDA) on Zomato's rest
 - Insights into customer behavior (votes vs rating, rating vs price, etc.) can inform better product, marketing, and expansion decisions.
 - Demonstrated how data storytelling can help transform raw data into strategic insights.
 
-#### Why This Project?
+### Why This Project?
 This project was created to:
 - Practice real-world EDA on a popular food tech dataset
 - Build my data storytelling and visualization skills
 - Present analytical thinking for business use cases in the food delivery sector
 
-Dataset Source
-- The dataset was obtained from Kaggle
+### Dataset Source
+The dataset was obtained from Kaggle
 - <a href = "https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data/data">(Zomato Restaurants Data)</a>
